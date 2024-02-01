@@ -160,4 +160,3 @@ st.sidebar.markdown('''
     -------
     By Danielle Taneyo  
     [Linkedin](https://www.linkedin.com/in/danielletaneyosaa/)''')
-          
