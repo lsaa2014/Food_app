@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import json
 import requests
-from pandas.io.json import json_normalize
+from pandas import json_normalize
 import plotly.graph_objects as go
 import plotly.express as px
 from PIL import Image
@@ -160,4 +160,3 @@ st.sidebar.markdown('''
     -------
     By Danielle Taneyo  
     [Linkedin](https://www.linkedin.com/in/danielletaneyosaa/)''')
-          
